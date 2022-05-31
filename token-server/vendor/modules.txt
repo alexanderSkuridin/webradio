@@ -1,0 +1,20 @@
+# github.com/AgoraIO/Tools/DynamicKey/AgoraDynamicKey/go/src v0.0.0-20220419083531-2ab3752b08de
+## explicit; go 1.14
+github.com/AgoraIO/Tools/DynamicKey/AgoraDynamicKey/go/src/AccessToken
+github.com/AgoraIO/Tools/DynamicKey/AgoraDynamicKey/go/src/RtcTokenBuilder
+# github.com/kr/fs v0.1.0
+## explicit
+# github.com/kr/godep v0.0.0-20180126220526-ce0bfadeb516
+## explicit
+# github.com/kr/pretty v0.3.0
+## explicit; go 1.12
+# github.com/kr/text v0.2.0
+## explicit
+# github.com/pmezard/go-difflib v1.0.0
+## explicit
+# github.com/rogpeppe/go-internal v1.6.1
+## explicit; go 1.11
+# golang.org/x/sys v0.0.0-20211019181941-9d821ace8654
+## explicit; go 1.17
+# golang.org/x/tools v0.1.10
+## explicit; go 1.17
